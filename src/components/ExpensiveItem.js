@@ -14,7 +14,7 @@ function ExpensiveItem(props) {
                         <h3 className="text-primary">{exMonth}</h3>
                         <h5 className="text-primary">{exDay}</h5>
                         <h4 className="text-primary">{exYear}</h4>
-                        <p>aa</p>
+                        <p>aa 55</p> 
                     </div>
                     <div className="col-4">
                         <h3 className="text-success text-right">${props.cost}</h3>
