@@ -1,0 +1,14 @@
+.mainContent{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px 0;
+  }
+  .addExpensiveItems{
+    padding: 15px;
+    text-align: center;
+    background-color: #f7f7f7;
+    border-radius: 6px;
+  }
+  .inputBox{
+    text-align: left;
+  }
